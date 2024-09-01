@@ -2,6 +2,6 @@
   "name": "chigia001.github.io",
   "packageManager": "yarn@3.2.3",
   "devDependencies": {
-    "@11ty/eleventy": "2.0.0-canary.15"
+    "@11ty/eleventy": "2.0.1"
   }
 }
